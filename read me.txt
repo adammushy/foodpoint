@@ -1,0 +1,14 @@
+1.extract app
+2.create mysql database name "fooddb"
+3. open food_db.sql import the data into the database
+4.connect your database with the project using connect.php in the components
+5.run the project 
+6. initial will start at users page to access admin page after the url add "/admin" to access admin 
+u will see the default admin name and password
+ NB: you can run the project locally using xampp or wampp64 servers
+     OR online using hosting sites/servers
+
+
+this project is also live hosted via:
+
+ http://foodpoint.epizy.com/
